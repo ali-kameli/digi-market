@@ -1,0 +1,22 @@
+.store-product {
+  text-align: center;
+
+  text-align: -webkit-center;
+}
+.container-store-product {
+  box-shadow: rgb(50 50 93 / 25%) 1px 1px 19px -4px;
+  border-radius: 1rem;
+}
+.img-iphone-ad {
+  width: 100%;
+  border-radius: 10px;
+  height: 16rem;
+}
+.img-ad{
+  width: 100%;
+  border-radius: 1rem;
+}
+.ad-image-landing{
+  cursor: pointer;
+  
+}

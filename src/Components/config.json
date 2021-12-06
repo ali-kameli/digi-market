@@ -1,0 +1,6 @@
+{
+    "backendlessapi": "https://xxxx.backendless.app",
+    "toplearnapi": "https://toplearnapi.ghorbany.dev",
+    "reqres": "https://reqres.in",
+    "localapi": "./data.json"
+}

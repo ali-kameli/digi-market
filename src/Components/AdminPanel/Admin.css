@@ -1,0 +1,114 @@
+.admin-sidbar-right {
+  background-color: #fbfbfb;
+  line-height: 3rem;
+  min-height: 100vh;
+  box-shadow: rgb(0 0 0 / 36%) 0px 0px 37px -12px;
+}
+.section-admin-sidbar {
+  display: grid;
+  text-align: center;
+}
+a {
+  color: #b6b6b6;
+}
+a:hover {
+  color: #898989;
+}
+/* .Link-sidebar{
+  color: #838488!important;
+} */
+.section-admin-sidbar i {
+  font-size: x-large;
+}
+.admin-panel-center {
+  justify-content: center;
+  text-align: center;
+}
+.admin-sidebar-left {
+  background-color: #fbfbfb;
+  line-height: 3rem;
+  min-height: 100vh;
+  line-height: 7rem;
+  box-shadow: rgb(0 0 0 / 36%) 0px 0px 37px -12px;
+}
+.picture-admin-sidebar-left {
+  background-color: gray !important;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+.admin-panel-profile {
+  display: flex;
+  justify-content: space-around;
+}
+.admin-panel-profile h6 {
+  align-self: center;
+  font-weight: 800;
+}
+
+.span-total-wallet-admin-panel p {
+  margin: 0;
+  height: 19px;
+  color: #b6b6b6;
+}
+.div-total-admin-panel {
+  text-align: center;
+  direction: ltr;
+  border-bottom: 1px solid #ebebeb;
+}
+.div-total-admin-panel i {
+  font-size: xx-large;
+  background-color: #ebe9f6;
+  color: green;
+  border-radius: 7px;
+  padding: 5px;
+  margin-left: 11px;
+}
+.div-total-sell-admin-panel {
+  text-align: center;
+  direction: ltr;
+}
+
+.icon-sell-admin-panel {
+  font-size: xx-large;
+  background-color: #ebe9f6;
+  color: #ff5555;
+  border-radius: 7px;
+  padding: 5px;
+  margin-left: 11px;
+}
+.span-sell-admin-panel p {
+  margin: 0;
+  height: 19px;
+  color: #b6b6b6;
+}
+.total-sell-much {
+  display: -webkit-inline-box;
+  direction: ltr;
+  -webkit-box-align: center;
+  margin-left: 6.3rem;
+}
+.div-lorem-admin-panel {
+  text-align: center;
+  direction: ltr;
+  border-bottom: 1px solid #ebebeb;
+}
+.icon-lorem-admin-panel {
+  font-size: xx-large;
+  background-color: #ebe9f6;
+  color: #ff5555;
+  border-radius: 7px;
+  padding: 5px;
+  margin-left: 11px;
+}
+.span-lorem-admin-panel p{
+  margin: 0;
+  height: 19px;
+  color: #b6b6b6;
+}
+.lorem-admin-detail{
+  display: -webkit-inline-box;
+  direction: ltr;
+  -webkit-box-align: center;
+  margin-left: 8rem;
+}

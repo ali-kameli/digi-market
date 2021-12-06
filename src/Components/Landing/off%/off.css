@@ -1,0 +1,41 @@
+.off-landing {
+  background-color: #d41e47 !important;
+}
+.text-off {
+  font-size: xx-large;
+  font-family: "sahel";
+  color: white;
+}
+.off-side {
+  align-self: center;
+}
+@media (min-width: 2000px) {
+  .off-resp {
+    width: 16.7% !important;
+  }
+}
+@media (max-width: 1999px) {
+  .off-resp {
+    width: 21% !important;
+  }
+}
+@media (max-width: 1000px) {
+  .off-resp {
+    width: 28% !important;
+  }
+}
+@media (max-width: 688px) {
+  .off-resp {
+    width: 34% !important;
+  }
+}
+@media (max-width: 556px) {
+  .off-resp {
+    width: 50% !important;
+  }
+}
+@media (max-width: 400px) {
+  .off-resp {
+    width: 100% !important;
+  }
+}

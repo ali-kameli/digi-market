@@ -1,0 +1,74 @@
+.container-footer {
+  width: 100%;
+  background-color: #0b032d !important   ;
+  clip-path: ellipse(113% 71% at -1% 70%);
+  text-align: right;
+  padding-top: 7rem !important;
+  direction: rtl;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+.footer-text,
+.service-footer,
+.service-footer a {
+  color: white !important;
+  display: inline-grid;
+}
+.service-footer a:hover {
+  color: #fe0048 !important;
+
+}
+.section-footer {
+  display: flex;
+  place-items: center;
+  text-align: right;
+  border-radius: 10px;
+  box-shadow: rgb(50 50 93 / 25%) 4px 4px 10px -4px;
+  justify-content: end;
+  transition: all 0.2s;
+  margin-bottom: 1.7rem;
+  padding-inline: 1rem;
+}
+.section-footer:hover {
+  transform: translateY(-4px);
+  box-shadow: rgb(0 0 0 / 30%) 9px 15px 24px 0px;
+}
+
+.fa-footer {
+  font-size: x-large;
+  margin-inline: 10px;
+  color: #fe0048 !important;
+
+  font-size: xx-large;
+  margin-bottom: 25px;
+  margin-left: 10px;
+}
+.icon-footer {
+  font-size: 20px;
+  margin-left: 9px;
+  color: gray;
+}
+
+.service-moshavere {
+  color: #fff;
+}
+.row-foter {
+  place-content: center !important;
+}
+
+@media (max-width: 768px) {
+  .footer-text {
+    padding-right: 6rem;
+  }
+}
+.footer-text p{
+  text-align: justify;
+}
+.footer-text h3,
+.service-moshavere {
+  font-weight: bolder;
+}
