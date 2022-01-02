@@ -11,10 +11,8 @@ import Off from "./off%/off";
 const Landing = () => {
   return (
     <div>
- 
       <div className="container-fluid landing-body my-3">
         <div className="row" style={{ justifyContent: "center" }}>
-         
           <div className="col-12 col-md-8">
             <div
               className="carousel slide"
@@ -71,7 +69,7 @@ const Landing = () => {
               </div>
             </div>
           </div>
-          <div className="col-8 col-md-3 mt-1">
+          <div className="col-6 lnading-single-img col-md-3 mt-1">
             <img src={watch6} alt="img" />
             <img src={mackBook} alt="img" className="mt-4" />
           </div>
