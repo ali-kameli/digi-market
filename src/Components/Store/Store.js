@@ -56,21 +56,21 @@ const Store = (props) => {
             </div>
           ))}
 
-          <div className="col-12 col-md-4">
+          <div className="col-12 col-md-4 mt-5">
             <img
               src={nokiaAd}
               className="img-ad ad-image-landing"
               alt="phone"
             />
           </div>
-          <div className="col-12 col-md-4">
+          <div className="col-12 col-md-4 mt-5">
             <img
               src={xiomiAd}
               className="img-ad ad-image-landing"
               alt="phone"
             />
           </div>
-          <div className="col-12 col-md-4">
+          <div className="col-12 col-md-4 mt-5">
             <img
               src={huaweiAd}
               className="img-ad ad-image-landing"
