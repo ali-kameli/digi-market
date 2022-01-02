@@ -1,7 +1,3 @@
-import galaxy_notes from "./assets/galaxy-note.jpg";
-
-
-
 export const getProduct= [
   {
     id: 1,

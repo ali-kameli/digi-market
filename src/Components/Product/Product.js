@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Link } from "react-router-dom";
-import { isInCart, quantityCount, shorten } from "./../helpers/functions";
+import { isInCart, quantityCount } from "./../helpers/functions";
 import { CartContext } from "./../context/CartContextProvider";
 import "./product.css";
 import shop from "../assets/addtocart.png";

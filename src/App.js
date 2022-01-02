@@ -16,11 +16,11 @@ import SettingPanel from "./Components/AdminPanel/setting";
 import AdminDashboard from "./Components/AdminPanel/dashboard";
 import AdminSideRight from "./Components/AdminPanel/AdminSideRight";
 import AdminDetail from "./Components/AdminPanel/AdminDetail";
-import "./Components/AdminPanel/Admin.css"
+import "./Components/AdminPanel/Admin.css";
 import AccountPanel from "./Components/AdminPanel/Account";
 
 const App = (props) => {
-  const { pathname } = props.location;
+  // const { pathname } = props.location;
   return (
     <Switch>
       <Route path={["/dashboard"]}>
@@ -46,8 +46,7 @@ const App = (props) => {
         <ProductsContextProvider>
           <CartContextProvider>
             <ToastContainer />
-            <Navbar />
-            {pathname === "/products" ? <Landing /> : null}
+            {/* <Navbar /> */}
             <Switch>
               <Route path="/signin" component={SignIn} />
               <Route path="/signup" component={SignUp} />

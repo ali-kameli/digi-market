@@ -21,7 +21,16 @@ const SignIn = () => {
         email: "ایمیل نوشته شده صحیح نمی باشد",
       },
       element: (message) => (
-        <div style={{ color: "red", position: "absolute",fontWeight:"lighter", margin:"9px" }}>{message}</div>
+        <div
+          style={{
+            color: "red",
+            position: "absolute",
+            fontWeight: "lighter",
+            margin: "9px",
+          }}
+        >
+          {message}
+        </div>
       ),
     })
   );
@@ -41,7 +50,7 @@ const SignIn = () => {
           localStorage.setItem("token", data.token);
           history.replace("/");
           // reset();
-          history.replace("/dashboard")
+          history.replace("/dashboard");
         }
       } else {
         validator.current.showMessages();
@@ -62,8 +71,11 @@ const SignIn = () => {
       {/* <div className="cover-signin"></div> */}
       <div className="row py-5">
         <div className="col-12 col-md-6  div-form-signin">
-          <form onSubmit={handleSubmit} className="form-contorol forms-in-sign p-5">
-          <h2>ورود</h2>
+          <form
+            onSubmit={handleSubmit}
+            className="form-contorol forms-in-sign p-5"
+          >
+            <h2>ورود</h2>
             {/* Email input group  */}
             <div className="input-group mb-2 div-sigin-form">
               <i className="fa fa-envelope"></i>
@@ -99,18 +111,19 @@ const SignIn = () => {
                   validator.current.showMessageFor("password");
                 }}
               />
-            <div>
-              {validator.current.message(
-                "password",
-                password,
-                "required|min:5"
+              <div>
+                {validator.current.message(
+                  "password",
+                  password,
+                  "required|min:5"
                 )}
+              </div>
             </div>
-                </div>
             {/*End password input group  */}
             {/* bootstrap modal  */}
             <div className="col-12 col-md-4 offset-1 offset-md-2 mt-4 link-all-helper">
               <a
+              href="/#"
                 type="button"
                 className=""
                 data-toggle="modal"
@@ -130,7 +143,7 @@ const SignIn = () => {
                         className="close"
                         data-dismiss="modal"
                       >
-                        &times;
+                        {/* &times; */}
                       </button>
                     </div>
                     <div className="modal-body">
@@ -155,9 +168,9 @@ const SignIn = () => {
               </div>
             </div>
             {/* End bootstrap modal  */}
-              <button type="" className="btn-sign-in  btn btn-primary ">
-                ورود
-              </button>
+            <button type="" className="btn-sign-in  btn btn-primary ">
+              ورود
+            </button>
           </form>
         </div>
       </div>

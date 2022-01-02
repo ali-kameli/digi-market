@@ -1,15 +1,20 @@
-import React, { useContext, Fragment } from "react";
+import React, { useContext } from "react";
 import { NavLink, Link } from "react-router-dom";
 import { CartContext } from "./../context/CartContextProvider";
 import "./Navbar.css";
 import "./MainNav/Main.css";
 import MainNav from "./MainNav/MainNav";
 
-const Navbar = () => {
+
+const Navbar = ({search,searchHandler}) => {
   const { state } = useContext(CartContext);
 
+  // const { search, searchHandler } = useContext(SearchContext);
+
+  console.log(search);
+
   return (
-    <Fragment>
+    <div>
       <div>
         <div id="ticker" class="ticker">
           <ul>
@@ -18,6 +23,9 @@ const Navbar = () => {
             <li>ضـمــانت اصـــــل کـــــالا</li>
           </ul>
         </div>
+        
+
+
         <div className="container-fluid p-0 sticky-top container-all-navbar">
           <div className="row m-0">
             <div className="col-12 p-0">
@@ -52,6 +60,8 @@ const Navbar = () => {
                                 type="text"
                                 className="form-control"
                                 placeholder="جستجــو در دیـجـی مارکـت"
+                                value={search}
+                                onChange={searchHandler}
                               />
                             </div>
                           </div>
@@ -67,7 +77,7 @@ const Navbar = () => {
                     <i className="fa fa-user-o fa-user-navbar "></i>
                   </span>
                   <div className="sign-in-navbar">
-                  <NavLink
+                    <NavLink
                       activeStyle={{ color: "skyblue" }}
                       className="nav-link login-navbar pl-2"
                       to="/signin"
@@ -99,7 +109,7 @@ const Navbar = () => {
           </div>
         </div>
       </div>
-    </Fragment>
+    </div>
   );
 };
 

@@ -89,6 +89,18 @@ nav {
     display: block;
   }
 }
+@media (max-width:532px),(min-width:490px) {
+  .cart-navbar{
+    width: 3rem !important;
+  }
+}
+@media (max-width:490px){
+  .navbar-logo{
+    min-width: max-content !important;
+  }
+}
+
+
 li {
   list-style: none;
 }

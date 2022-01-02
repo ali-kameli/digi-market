@@ -11,12 +11,12 @@ const MainNav = () => {
                             <div className="menu-wrapper">
                               <ul className="nav">
                                 <li>
-                                  <a href="#">کالای دیجیتال</a>
+                                  <a href="/#">کالای دیجیتال</a>
                                   <div className="layer2">
                                     <div className="nav-column">
                                       <ul className="nav inner">
                                         <li>
-                                          <a href="#"> موبایل</a>
+                                          <a href="/#"> موبایل</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -24,34 +24,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> Samsung</a>
+                                                  <a href="/#"> Samsung</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Apple</a>
+                                                  <a href="/#"> Apple</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Huawei</a>
+                                                  <a href="/#"> Huawei</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> HTC</a>
+                                                  <a href="/#"> HTC</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Asus</a>
+                                                  <a href="/#"> Asus</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Sony</a>
+                                                  <a href="/#"> Sony</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Toshiba</a>
+                                                  <a href="/#"> Toshiba</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> LG</a>
+                                                  <a href="/#"> LG</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Acer</a>
+                                                  <a href="/#"> Acer</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -61,13 +61,13 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">android</a>
+                                                  <a href="/#">android</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">IOS</a>
+                                                  <a href="/#">IOS</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">ویندوز فون</a>
+                                                  <a href="/#">ویندوز فون</a>
                                                 </li>
                                               </ul>
                                               <span className="head">
@@ -75,16 +75,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">تک سیم کارت</a>
+                                                  <a href="/#">تک سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">دو سیم کارت</a>
+                                                  <a href="/#">دو سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">گوشی های 4G</a>
+                                                  <a href="/#">گوشی های 4G</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">فبلت</a>
+                                                  <a href="/#">فبلت</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -94,43 +94,43 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> کیف</a>
+                                                  <a href="/#"> کیف</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> باطری</a>
+                                                  <a href="/#"> باطری</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     محافظ صفحه نمایش
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> هندزفری</a>
+                                                  <a href="/#"> هندزفری</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> پاور بانک</a>
+                                                  <a href="/#"> پاور بانک</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> کابل گوشی</a>
+                                                  <a href="/#"> کابل گوشی</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     منوپاد و نگهدارنده
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> کارت حافظه</a>
+                                                  <a href="/#"> کارت حافظه</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     کیت تمیز کننده
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -140,56 +140,56 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مناسب بازی</a>
+                                                  <a href="/#"> مناسب بازی</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     مناسب سالمندان
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> مناسب عکاسی</a>
+                                                  <a href="/#"> مناسب عکاسی</a>
                                                 </li>
                                               </ul>
                                             </div>
                                           </div>
                                         </li>
                                         <li>
-                                          <a href="#"> تبلت و کتاب خوان</a>
+                                          <a href="/#"> تبلت و کتاب خوان</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">تبلت</span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> Samsung</a>
+                                                  <a href="/#"> Samsung</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Apple</a>
+                                                  <a href="/#"> Apple</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Huawei</a>
+                                                  <a href="/#"> Huawei</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> HTC</a>
+                                                  <a href="/#"> HTC</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Asus</a>
+                                                  <a href="/#"> Asus</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Sony</a>
+                                                  <a href="/#"> Sony</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Toshiba</a>
+                                                  <a href="/#"> Toshiba</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> LG</a>
+                                                  <a href="/#"> LG</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Acer</a>
+                                                  <a href="/#"> Acer</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -199,17 +199,17 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     کوچکتر از 8 اینچ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     بین 8 تا 10 اینچ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     بزرگتر از 10 اینچ
                                                   </a>
                                                 </li>
@@ -219,16 +219,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">ویندوز</a>
+                                                  <a href="/#">ویندوز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">آندروید</a>
+                                                  <a href="/#">آندروید</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">IOS</a>
+                                                  <a href="/#">IOS</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">سایر</a>
+                                                  <a href="/#">سایر</a>
                                                 </li>
                                               </ul>
                                               <span className="head">
@@ -241,43 +241,43 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> کیف</a>
+                                                  <a href="/#"> کیف</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> باطری</a>
+                                                  <a href="/#"> باطری</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     محافظ صفحه نمایش
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> هندزفری</a>
+                                                  <a href="/#"> هندزفری</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> پاور بانک</a>
+                                                  <a href="/#"> پاور بانک</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> کابل </a>
+                                                  <a href="/#"> کابل </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     منوپاد و نگهدارنده
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> کارت حافظه</a>
+                                                  <a href="/#"> کارت حافظه</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     کیت تمیز کننده
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -287,16 +287,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مناسب بازی</a>
+                                                  <a href="/#"> مناسب بازی</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     مناسب سالمندان
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     تبلت سیم کارت دار
                                                   </a>
@@ -311,12 +311,12 @@ const MainNav = () => {
                                 </li>
 
                                 <li>
-                                  <a href="#">لوازم خانگی</a>
+                                  <a href="/#">لوازم خانگی</a>
                                   <div className="layer2">
                                     <div className="nav-column">
                                       <ul className="nav inner">
                                         <li>
-                                          <a href="#"> صوتی و تصویری</a>
+                                          <a href="/#"> صوتی و تصویری</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -324,40 +324,40 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     کوچکتر از 32 اینچ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 32 تا 39 اینچ</a>
+                                                  <a href="/#"> 32 تا 39 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 40 تا 48 اینچ</a>
+                                                  <a href="/#"> 40 تا 48 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 50تا 55 اینج</a>
+                                                  <a href="/#"> 50تا 55 اینج</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     60 اینچ و بزرگتر
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Sony</a>
+                                                  <a href="/#"> Sony</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Toshiba</a>
+                                                  <a href="/#"> Toshiba</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> LG</a>
+                                                  <a href="/#"> LG</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Acer</a>
+                                                  <a href="/#"> Acer</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -367,13 +367,13 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">android</a>
+                                                  <a href="/#">android</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">IOS</a>
+                                                  <a href="/#">IOS</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">ویندوز فون</a>
+                                                  <a href="/#">ویندوز فون</a>
                                                 </li>
                                               </ul>
                                               <span className="head">
@@ -381,16 +381,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">تک سیم کارت</a>
+                                                  <a href="/#">تک سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">دو سیم کارت</a>
+                                                  <a href="/#">دو سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">گوشی های 4G</a>
+                                                  <a href="/#">گوشی های 4G</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">فبلت</a>
+                                                  <a href="/#">فبلت</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -400,34 +400,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -437,41 +437,41 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
                                           </div>
                                         </li>
                                         <li>
-                                          <a href="#"> لوازم خانگی برقی</a>
+                                          <a href="/#"> لوازم خانگی برقی</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -479,34 +479,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مایکرویو</a>
+                                                  <a href="/#"> مایکرویو</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> اجاق گاز</a>
+                                                  <a href="/#"> اجاق گاز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> توستر</a>
+                                                  <a href="/#"> توستر</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> سرخ کن</a>
+                                                  <a href="/#"> سرخ کن</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ساندویچ ساز</a>
+                                                  <a href="/#"> ساندویچ ساز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 1...</a>
+                                                  <a href="/#"> 1...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -516,17 +516,17 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -536,22 +536,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -563,34 +563,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -600,34 +600,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -640,12 +640,12 @@ const MainNav = () => {
 
                                 {/* <!-- car tools --> */}
                                 <li>
-                                  <a href="#">خودرو و ابزار</a>
+                                  <a href="/#">خودرو و ابزار</a>
                                   <div className="layer2">
                                     <div className="nav-column">
                                       <ul className="nav inner">
                                         <li>
-                                          <a href="#"> خودرو </a>
+                                          <a href="/#"> خودرو </a>
                                           <div>
                                             {/* <!-- in car  --> */}
                                             <div className="nav-column  border">
@@ -654,22 +654,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> پراید</a>
+                                                  <a href="/#"> پراید</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">نیسان</a>
+                                                  <a href="/#">نیسان</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">پژو 206</a>
+                                                  <a href="/#">پژو 206</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">پژو 405</a>
+                                                  <a href="/#">پژو 405</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">پیکان</a>
+                                                  <a href="/#">پیکان</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">تیبا</a>
+                                                  <a href="/#">تیبا</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -680,22 +680,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">kia</a>
+                                                  <a href="/#">kia</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">Hunday</a>
+                                                  <a href="/#">Hunday</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">hyma</a>
+                                                  <a href="/#">hyma</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">mazda</a>
+                                                  <a href="/#">mazda</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">mvm</a>
+                                                  <a href="/#">mvm</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">benz</a>
+                                                  <a href="/#">benz</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -706,34 +706,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -744,34 +744,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -783,34 +783,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">.</a>
+                                                  <a href="/#">.</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -821,34 +821,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -857,7 +857,7 @@ const MainNav = () => {
                                         </li>
                                         {/* <!-- tools barqi / qeir barqi  --> */}
                                         <li>
-                                          <a href="#">ابزار برقی و غیر برقی</a>
+                                          <a href="/#">ابزار برقی و غیر برقی</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -865,31 +865,31 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دریل، پیچ گوشتی برقی و شارژ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     فرز و سنگ رومیزی
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">موتور برق</a>
+                                                  <a href="/#">موتور برق</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">دمنده و مکنده</a>
+                                                  <a href="/#">دمنده و مکنده</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">کارواش</a>
+                                                  <a href="/#">کارواش</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     کمپرسور و جک خودرو
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     ابزار همه کاره برقی و شارژی
                                                   </a>
                                                 </li>
@@ -901,39 +901,39 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">ابزار دستی</a>
+                                                  <a href="/#">ابزار دستی</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">مجموعه ابزار </a>
+                                                  <a href="/#">مجموعه ابزار </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">نرده بان</a>
+                                                  <a href="/#">نرده بان</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     پیچ گوشتی و فازمتر
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     نظم دهنده ابزار
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">متر تراز </a>
+                                                  <a href="/#">متر تراز </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">نرده بان</a>
+                                                  <a href="/#">نرده بان</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">اندازه گیری</a>
+                                                  <a href="/#">اندازه گیری</a>
                                                 </li>
                                               </ul>
                                             </div>
                                           </div>
                                         </li>
                                         <li>
-                                          <a href="#"> لوازم خانگی برقی</a>
+                                          <a href="/#"> لوازم خانگی برقی</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -941,34 +941,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مایکرویو</a>
+                                                  <a href="/#"> مایکرویو</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> اجاق گاز</a>
+                                                  <a href="/#"> اجاق گاز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> توستر</a>
+                                                  <a href="/#"> توستر</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> سرخ کن</a>
+                                                  <a href="/#"> سرخ کن</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ساندویچ ساز</a>
+                                                  <a href="/#"> ساندویچ ساز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 1...</a>
+                                                  <a href="/#"> 1...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -978,17 +978,17 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -998,22 +998,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -1025,34 +1025,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1062,34 +1062,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1101,12 +1101,12 @@ const MainNav = () => {
                                 </li>
 
                                 <li>
-                                  <a href="#">مد و پوشاک</a>
+                                  <a href="/#">مد و پوشاک</a>
                                   <div className="layer2">
                                     <div className="nav-column">
                                       <ul className="nav inner">
                                         <li>
-                                          <a href="#"> صوتی و تصویری</a>
+                                          <a href="/#"> صوتی و تصویری</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -1114,40 +1114,40 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     کوچکتر از 32 اینچ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 32 تا 39 اینچ</a>
+                                                  <a href="/#"> 32 تا 39 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 40 تا 48 اینچ</a>
+                                                  <a href="/#"> 40 تا 48 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 50تا 55 اینج</a>
+                                                  <a href="/#"> 50تا 55 اینج</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     60 اینچ و بزرگتر
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Sony</a>
+                                                  <a href="/#"> Sony</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Toshiba</a>
+                                                  <a href="/#"> Toshiba</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> LG</a>
+                                                  <a href="/#"> LG</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Acer</a>
+                                                  <a href="/#"> Acer</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1157,13 +1157,13 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">android</a>
+                                                  <a href="/#">android</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">IOS</a>
+                                                  <a href="/#">IOS</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">ویندوز فون</a>
+                                                  <a href="/#">ویندوز فون</a>
                                                 </li>
                                               </ul>
                                               <span className="head">
@@ -1171,16 +1171,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">تک سیم کارت</a>
+                                                  <a href="/#">تک سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">دو سیم کارت</a>
+                                                  <a href="/#">دو سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">گوشی های 4G</a>
+                                                  <a href="/#">گوشی های 4G</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">فبلت</a>
+                                                  <a href="/#">فبلت</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1190,34 +1190,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1227,41 +1227,41 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
                                           </div>
                                         </li>
                                         <li>
-                                          <a href="#"> لوازم خانگی برقی</a>
+                                          <a href="/#"> لوازم خانگی برقی</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -1269,34 +1269,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مایکرویو</a>
+                                                  <a href="/#"> مایکرویو</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> اجاق گاز</a>
+                                                  <a href="/#"> اجاق گاز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> توستر</a>
+                                                  <a href="/#"> توستر</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> سرخ کن</a>
+                                                  <a href="/#"> سرخ کن</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ساندویچ ساز</a>
+                                                  <a href="/#"> ساندویچ ساز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 1...</a>
+                                                  <a href="/#"> 1...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1306,17 +1306,17 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -1326,22 +1326,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -1353,34 +1353,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1390,34 +1390,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1429,12 +1429,12 @@ const MainNav = () => {
                                 </li>
 
                                 <li>
-                                  <a href="#">کتاب و لوازم تحریر </a>
+                                  <a href="/#">کتاب و لوازم تحریر </a>
                                   <div className="layer2">
                                     <div className="nav-column">
                                       <ul className="nav inner">
                                         <li>
-                                          <a href="#"> صوتی و تصویری</a>
+                                          <a href="/#"> صوتی و تصویری</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -1442,40 +1442,40 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     کوچکتر از 32 اینچ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 32 تا 39 اینچ</a>
+                                                  <a href="/#"> 32 تا 39 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 40 تا 48 اینچ</a>
+                                                  <a href="/#"> 40 تا 48 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 50تا 55 اینج</a>
+                                                  <a href="/#"> 50تا 55 اینج</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     60 اینچ و بزرگتر
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Sony</a>
+                                                  <a href="/#"> Sony</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Toshiba</a>
+                                                  <a href="/#"> Toshiba</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> LG</a>
+                                                  <a href="/#"> LG</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Acer</a>
+                                                  <a href="/#"> Acer</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1485,13 +1485,13 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">android</a>
+                                                  <a href="/#">android</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">IOS</a>
+                                                  <a href="/#">IOS</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">ویندوز فون</a>
+                                                  <a href="/#">ویندوز فون</a>
                                                 </li>
                                               </ul>
                                               <span className="head">
@@ -1499,16 +1499,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">تک سیم کارت</a>
+                                                  <a href="/#">تک سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">دو سیم کارت</a>
+                                                  <a href="/#">دو سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">گوشی های 4G</a>
+                                                  <a href="/#">گوشی های 4G</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">فبلت</a>
+                                                  <a href="/#">فبلت</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1518,34 +1518,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1555,41 +1555,41 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
                                           </div>
                                         </li>
                                         <li>
-                                          <a href="#"> لوازم خانگی برقی</a>
+                                          <a href="/#"> لوازم خانگی برقی</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -1597,34 +1597,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مایکرویو</a>
+                                                  <a href="/#"> مایکرویو</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> اجاق گاز</a>
+                                                  <a href="/#"> اجاق گاز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> توستر</a>
+                                                  <a href="/#"> توستر</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> سرخ کن</a>
+                                                  <a href="/#"> سرخ کن</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ساندویچ ساز</a>
+                                                  <a href="/#"> ساندویچ ساز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 1...</a>
+                                                  <a href="/#"> 1...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1634,17 +1634,17 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -1654,22 +1654,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -1681,34 +1681,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1718,34 +1718,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1757,12 +1757,12 @@ const MainNav = () => {
                                 </li>
 
                                 <li>
-                                  <a href="#">ورز ش وسفر</a>
+                                  <a href="/#">ورز ش وسفر</a>
                                   <div className="layer2">
                                     <div className="nav-column">
                                       <ul className="nav inner">
                                         <li>
-                                          <a href="#"> صوتی و تصویری</a>
+                                          <a href="/#"> صوتی و تصویری</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -1770,40 +1770,40 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     کوچکتر از 32 اینچ
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 32 تا 39 اینچ</a>
+                                                  <a href="/#"> 32 تا 39 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 40 تا 48 اینچ</a>
+                                                  <a href="/#"> 40 تا 48 اینچ</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 50تا 55 اینج</a>
+                                                  <a href="/#"> 50تا 55 اینج</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     {" "}
                                                     60 اینچ و بزرگتر
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Sony</a>
+                                                  <a href="/#"> Sony</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Toshiba</a>
+                                                  <a href="/#"> Toshiba</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> LG</a>
+                                                  <a href="/#"> LG</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> Acer</a>
+                                                  <a href="/#"> Acer</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1813,13 +1813,13 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">android</a>
+                                                  <a href="/#">android</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">IOS</a>
+                                                  <a href="/#">IOS</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">ویندوز فون</a>
+                                                  <a href="/#">ویندوز فون</a>
                                                 </li>
                                               </ul>
                                               <span className="head">
@@ -1827,16 +1827,16 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">تک سیم کارت</a>
+                                                  <a href="/#">تک سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">دو سیم کارت</a>
+                                                  <a href="/#">دو سیم کارت</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">گوشی های 4G</a>
+                                                  <a href="/#">گوشی های 4G</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">فبلت</a>
+                                                  <a href="/#">فبلت</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1846,34 +1846,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1883,41 +1883,41 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
                                           </div>
                                         </li>
                                         <li>
-                                          <a href="#"> لوازم خانگی برقی</a>
+                                          <a href="/#"> لوازم خانگی برقی</a>
                                           <div>
                                             <div className="nav-column  border">
                                               <span className="head">
@@ -1925,34 +1925,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> مایکرویو</a>
+                                                  <a href="/#"> مایکرویو</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> اجاق گاز</a>
+                                                  <a href="/#"> اجاق گاز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> توستر</a>
+                                                  <a href="/#"> توستر</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> سرخ کن</a>
+                                                  <a href="/#"> سرخ کن</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ساندویچ ساز</a>
+                                                  <a href="/#"> ساندویچ ساز</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> 1...</a>
+                                                  <a href="/#"> 1...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -1962,17 +1962,17 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -1982,22 +1982,22 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
                                                 <li>
-                                                  <a href="#">
+                                                  <a href="/#">
                                                     دسته بندی دلخواه
                                                   </a>
                                                 </li>
@@ -2009,34 +2009,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>
@@ -2046,34 +2046,34 @@ const MainNav = () => {
                                               </span>
                                               <ul>
                                                 <li>
-                                                  <a href="#"> ....</a>
+                                                  <a href="/#"> ....</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> متن شما</a>
+                                                  <a href="/#"> متن شما</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> ...</a>
+                                                  <a href="/#"> ...</a>
                                                 </li>
                                                 <li>
-                                                  <a href="#"> موارد بیشتر</a>
+                                                  <a href="/#"> موارد بیشتر</a>
                                                 </li>
                                               </ul>
                                             </div>

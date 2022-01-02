@@ -68,15 +68,15 @@ const Footer = () => {
           </div>
           <div className="col-12 col-md-3 service-footer">
             <h3 className="  service-moshavere"> راهنمای خرید</h3>
-            <a href="#">روش های پرداخت</a>
-            <a href="#"> روش های ارسال کالا</a>
-            <a href="#">ضـمــانت کالا</a>
+            <a href="/#">روش های پرداخت</a>
+            <a href="/#"> روش های ارسال کالا</a>
+            <a href="/#">ضـمــانت کالا</a>
           </div>
           <div className="col-12 col-md-3 service-footer">
             <h3 className="  service-moshavere">خدمات مشتریان</h3>
-            <a href="#">راهنمای جامع</a>
-            <a href="#">سوالات متداول</a>
-            <a href="#">حریم خصوصی</a>
+            <a href="/#">راهنمای جامع</a>
+            <a href="/#">سوالات متداول</a>
+            <a href="/#">حریم خصوصی</a>
           </div>
 
           <div

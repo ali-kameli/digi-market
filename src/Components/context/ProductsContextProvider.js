@@ -8,6 +8,7 @@ const ProductsContextProvider = (props) => {
 
   useEffect(() => {
     const fetchAPI = async () => {
+      // setProducts(await getProduct());
       setProducts(await getProduct);
     };
     fetchAPI();

@@ -6,23 +6,12 @@ import samsungD from "../assets/samsungd.webp";
 import watch6 from "../assets/watchseries6.jpg";
 import mackBook from "../assets/macbook-apple1.jpg";
 
-import iphone13 from "../assets/iphone13promax.jpg";
 import Off from "./off%/off";
 
 const Landing = () => {
   return (
     <div>
-      {/* <div className="container-fluid p-0">
-        <div className="row m-0">
-          <div className="col-12 p-0">
-            <img
-              src={iphone13}
-              alt="iphone"
-              style={{ width: "100%", height: "19rem" }}
-            />
-          </div>
-        </div>
-      </div> */}
+ 
       <div className="container-fluid landing-body my-3">
         <div className="row" style={{ justifyContent: "center" }}>
          
