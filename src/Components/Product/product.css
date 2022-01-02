@@ -43,6 +43,7 @@
   background-color: #fe0048;
   border: none;
   color: #fff;
+  width: max-content;
   height: 30px;
   border-radius: 4px;
   cursor: pointer;

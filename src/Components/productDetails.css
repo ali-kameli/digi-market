@@ -47,9 +47,9 @@
   background-color: #fe0048;
   border: none;
   color: #fff;
-  width: fit-content;
+  width: 100%;
   padding: 4px;
-  padding-inline: 5rem;
+  padding-inline: 5%;
   margin-inline: 1rem;
   border-radius: 1rem;
   cursor: pointer;
@@ -58,6 +58,12 @@
 }
 .btn-product-detail {
   text-align: left;
+}
+@media (max-width:480px) {
+  .btns-details{
+    display: block !important;
+    margin-left: 1rem;
+  }
 }
 .btn-detail-product-add img {
   width: 2rem;

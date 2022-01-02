@@ -25,7 +25,7 @@ const ProductDetails = (props) => {
   }, []);
 
   return (
-    <div className="container p-0 mt-4 container-product-details ">
+    <div className="container p-3 mt-4 container-product-details ">
       <div className="row ">
         <div className="col-12 col-md-5 mt-4 parrent-product-details">
           <img src={details.image} alt="product" />
