@@ -69,7 +69,7 @@ const Landing = () => {
               </div>
             </div>
           </div>
-          <div className="col-6 lnading-single-img col-md-3 mt-1">
+          <div className="col-9 lnading-single-img col-md-3 mt-1">
             <img src={watch6} alt="img" />
             <img src={mackBook} alt="img" className="mt-4" />
           </div>
